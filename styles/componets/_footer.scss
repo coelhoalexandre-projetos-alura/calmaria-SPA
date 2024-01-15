@@ -1,0 +1,16 @@
+@use '../abstract/variaveis';
+
+@use '../abstract/mixins';
+
+footer {
+    background: variaveis.$gradiente-primario;
+    margin-top: 5rem;
+    padding: 24px;
+    text-align: center;
+
+    small {
+        @include mixins.ff-fs-color(variaveis.$ft-textos, 1rem, variaveis.$cor-primaria);
+    }
+
+
+}

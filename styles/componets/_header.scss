@@ -63,10 +63,10 @@ header {
                 @include mixins.ff-fs-color(variaveis.$ft-textos, 1.3rem, variaveis.$cor-quartenaria);
                 font-weight: 600;
 
+                transition: .3s;
                 &:hover {
                     background-color: variaveis.$cor-terciaria;
                     transform: scale(1.01);
-                    transition: .1s;
                 }
             }
         }
