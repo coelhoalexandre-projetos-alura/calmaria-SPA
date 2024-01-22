@@ -46,7 +46,8 @@
             
             transition: .3s;
             &:hover {
-                background-color: variaveis.$cor-terciaria;
+                background-color: variaveis.$cor-primaria;
+                cursor: pointer;
             }
         }
     };

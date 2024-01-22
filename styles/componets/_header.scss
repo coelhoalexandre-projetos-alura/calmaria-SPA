@@ -26,7 +26,8 @@ header {
 
                 &:hover {
                     font-weight: bold;
-                    transition: .2s;
+                    cursor: pointer;
+                    transition: .5s;
                 }
             }
         }
@@ -43,7 +44,7 @@ header {
         .textos-home {
             max-width: 464px;
             h1 {
-                @include mixins.ff-fs-color(variaveis.$ft-titulos, 42px, variaveis.$cor-primaria);
+                @include mixins.ff-fs-color(variaveis.$ft-titulos, 2.6rem, variaveis.$cor-primaria);
                 margin-bottom: 2rem;
 
                 span {
@@ -58,14 +59,15 @@ header {
                 outline: none;
                 border: none;
                 border-radius: 40px;
-                padding: 24px;
+                padding: 1.5rem;
 
                 @include mixins.ff-fs-color(variaveis.$ft-textos, 1.3rem, variaveis.$cor-quartenaria);
                 font-weight: 600;
 
                 transition: .3s;
                 &:hover {
-                    background-color: variaveis.$cor-terciaria;
+                    background-color: variaveis.$cor-primaria;
+                    cursor: pointer;
                     transform: scale(1.01);
                 }
             }
