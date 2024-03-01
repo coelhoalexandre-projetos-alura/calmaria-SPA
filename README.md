@@ -23,7 +23,7 @@
 
 ## Sobre o Projeto
 
-Esse projeto foi realizado em curso, entretanto sofreu algumas alterações em um segundo curso. Em seu [primeiro curso](https://cursos.alura.com.br/course/sass-css-estilizando-site), instruindo por [Diego Carlos](https://github.com/diegocgayoso), focou-se na construção da página com o SASS. Já no [segundo curso](https://cursos.alura.com.br/course/css-ajustando-acessibilidade-visual-projeto), instruido por [Luan Alves](https://github.com/luanalvesdev), teve como objetivo a acessbiilidade visual do projeto.
+Esse projeto foi realizado em curso, entretanto sofreu algumas alterações em um segundo curso. Em seu [primeiro curso](https://cursos.alura.com.br/course/sass-css-estilizando-site), instruindo por [**Diego Carlos**](https://github.com/diegocgayoso), focou-se na construção da página com o SASS. Já no [segundo curso](https://cursos.alura.com.br/course/css-ajustando-acessibilidade-visual-projeto), instruido por [**Luan Alves**](https://github.com/luanalvesdev), teve como objetivo a acessbiilidade visual do projeto.
 
 ## Objetivos do Projeto
 
@@ -51,10 +51,7 @@ Esse projeto foi realizado em curso, entretanto sofreu algumas alterações em u
 
 ## Autor
 
-- Nome(s), redes e forma de contato. 
-- Talvez um breve resumo sobre cada um.
-
-Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. [Falar sobre meu papel no projeto, seu eu fiz tudo ou só modifiquei.
+Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. Esse projeto foi feito por mim com a orientação de [**Diego Carlos**](https://github.com/diegocgayoso) e depois realizei algumas alterações com a orientação de [**Luan Alves**](https://github.com/luanalvesdev).
 
 Logo abaixo estão os meus principais links, fique a vontade de acessar o que mais lhe interessar:
 
