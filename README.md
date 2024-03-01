@@ -42,17 +42,12 @@ Esse projeto foi realizado em curso, entretanto sofreu algumas alterações em u
 
 ## Tecnolgias Utilizadas
 
-
+1. HTML
+2. SASS
 
 ## Layouts
 
-### Desktop Layout
-
-### Tablet Layout
-
-### Mobile Layout
-
-## Adaptações
+**Width 1920px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/calmaria-spa-1920px.jpg
 
 ## Autor
 
