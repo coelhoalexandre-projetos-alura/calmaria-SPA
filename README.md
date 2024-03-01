@@ -23,15 +23,22 @@
 
 ## Sobre o Projeto
 
-
+Esse projeto foi realizado em curso, entretanto sofreu algumas alterações em um segundo curso. Em seu [primeiro curso](https://cursos.alura.com.br/course/sass-css-estilizando-site), instruindo por [Diego Carlos](https://github.com/diegocgayoso), focou-se na construção da página com o SASS. Já no [segundo curso](https://cursos.alura.com.br/course/css-ajustando-acessibilidade-visual-projeto), instruido por [Luan Alves](https://github.com/luanalvesdev), teve como objetivo a acessbiilidade visual do projeto.
 
 ## Objetivos do Projeto
 
-
+- Aprender a como utilizar os recursos do pré-processador SASS;
+- Criar códigos CSS reutilizaveis;
+- Aprender os fundamentos e importancia da acessibilidade web;
+- Utilizar técnicas CSS para melhorar a experiencia do usario;
+- Usar ferramentas de testes no projeto;
+- Conhecer as diretrizes WCAG.
 
 ## Funcionalidades do Projeto
 
+- **Navegação:** Cada link manda para sua respectiva seção.
 
+<img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/calmaria-spa-navega%C3%A7%C3%A3o.png" alt="Navegação do Calmaria SPA">
 
 ## Tecnolgias Utilizadas
 
