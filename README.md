@@ -19,7 +19,7 @@
 |Curso|Instrutores|
 |---|---|
 |[SASS e CSS: estilizando um site](https://cursos.alura.com.br/course/sass-css-estilizando-site)|[**Diego Carlos**](https://github.com/diegocgayoso)|
-|[CSS: ajustando a acessibilidade visual em um projeto](https://cursos.alura.com.br/course/css-ajustando-acessibilidade-visual-projeto)[**Luan Alves**](https://github.com/luanalvesdev)|
+|[CSS: ajustando a acessibilidade visual em um projeto](https://cursos.alura.com.br/course/css-ajustando-acessibilidade-visual-projeto)|[**Luan Alves**](https://github.com/luanalvesdev)|
 
 ## Objetivos do Projeto
 - Aprender a utilizar propriedades do Flexbox na prática construindo um projeto responsivo;
